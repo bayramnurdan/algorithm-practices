@@ -1,0 +1,15 @@
+
+7
+java:S1643Z"Use a StringBuilder instead.(ï¼©üÿÿÿÿÿ
+3
+java:S1643…"Use a StringBuilder instead.(Ê×¡”
+8
+java:S1643"Use a StringBuilder instead.(äÇíøÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÆ¦‘úÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Èùœ¨
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+<
+java:S11687"&Return an empty array instead of null.(¥¹ï
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(¬ª¤Èúÿÿÿÿ
